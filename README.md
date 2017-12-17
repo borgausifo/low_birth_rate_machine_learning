@@ -60,7 +60,7 @@ Then you can see in your Jupyter notebook both Python 2.7 and 3.5 versions shown
 
 ## Built With
 
-* [Python 2.7](http://www.dropwizard.io/1.0.2/docs/) - The code framework used.
+* [Python 3.5](http://www.dropwizard.io/1.0.2/docs/) - The code framework used.
 * [Anaconda](https://maven.apache.org/) 
 * [scikit-learn](https://rometools.github.io/rome/) - Used to generate machine learning predictions. 
 * [Ipython](https://jupyter.readthedocs.io/en/latest/install.html)
