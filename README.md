@@ -18,7 +18,8 @@ Things you need to install in your local computer are given below.
 - [Pandas]
 - [matplotlib]
 - [scikit-learn]
-- [Ipython] 
+- [Ipython]
+- [Plotly] 
 ```
 
 ### Installing
@@ -64,6 +65,7 @@ Then you can see in your Jupyter notebook both Python 2.7 and 3.5 versions shown
 * [scikit-learn](https://rometools.github.io/rome/) - Used to generate machine learning predictions. 
 * [Ipython](https://jupyter.readthedocs.io/en/latest/install.html)
 * [NumPy](http://www.numpy.org/)
+* [Plotly](https://plot.ly/)
 
 ## Data 
 
