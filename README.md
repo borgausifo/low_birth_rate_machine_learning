@@ -1,11 +1,8 @@
-# low_birth_rate_machine_learning
-Low Birth Rate Data Exploration 
+
+# Prediction of Birth Rates 
 
 Research on Supervised and Unsupervised Machine Learning Algorithms and Their Performance on Correctly Classifying Birth Rate
 
-# Project Title
-
-Prediction of Birth Rates 
 
 
 ## Getting Started
